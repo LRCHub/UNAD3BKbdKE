@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "きらきら",
+  "base_artist": "湊あくあ",
+  "createdAt": "2025-12-05T09:30:41.100945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きらきら",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/01_きらきら_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きらきら",
+      "artist": "湊あくあ",
+      "has_synced": true,
+      "path": "select/02_きらきら_湊あくあ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "きらきら - Kirakira",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/03_きらきら_-_Kirakira_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "きらきら",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/04_きらきら_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "きらきら",
+      "artist": "新山詩織",
+      "has_synced": false,
+      "path": "select/05_きらきら_新山詩織.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "きらきら",
+      "artist": "湊あくあ",
+      "has_synced": true,
+      "path": "select/06_きらきら_湊あくあ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "きらきら☆アラモード",
+      "artist": "Chino(Minase, Inori)",
+      "has_synced": true,
+      "path": "select/07_きらきら☆アラモード_Chino(Minase,_Inori).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "きらきら☆アラモード",
+      "artist": "チノ(水瀬いのり)",
+      "has_synced": true,
+      "path": "select/08_きらきら☆アラモード_チノ(水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "きらきら",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/09_きらきら_eufonius.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "きらきら ～original ver.～",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/10_きらきら_~original_ver.~_Aqua_Timez.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "きらきら~original ver.~",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/11_きらきら~original_ver.~_Aqua_Timez.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "きらきら 〜original ver.〜",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/12_きらきら_〜original_ver.〜_Aqua_Timez.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "きらきら～orginal ver.～",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/13_きらきら~orginal_ver.~_Aqua_Timez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きらきら",
+      "artist": "湊あくあ",
+      "has_synced": false,
+      "path": "select/pl_01_きらきら_湊あくあ.txt"
+    }
+  ]
+}
